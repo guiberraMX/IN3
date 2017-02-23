@@ -312,8 +312,8 @@ a { outline: 0 !important; }
 	height: 100%;
 	top: 0;
 	overflow: visible;
-	border-top: 1026px solid rgba(231,76,60,0.90);
-	border-bottom: 0px solid rgba(231,76,60,0.90);
+	border-top: 1026px solid #4A64A0;
+	border-bottom: 0px solid #4A64A0;
 	border-left: 0px solid transparent; 
 	border-right: 260px solid transparent;
 	content: "";
@@ -627,8 +627,8 @@ a { outline: 0 !important; }
 	height: 100%;
 	top: -1px;
 	overflow: visible;
-	border-top: 0px solid rgba(231,76,60,0.90);
-	border-bottom: 1021px solid rgba(231,76,60,0.90);
+	border-top: 0px solid #5080CC;
+	border-bottom: 1021px solid #5080CC;
 	border-left: 260px solid transparent; 
 	border-right: 0px solid transparent;
 	content: "";
@@ -1508,7 +1508,7 @@ a { outline: 0 !important; }
 /* ## Statistics Section ## */
 
 .statistics-section {
-	background-color: #e74c3c;
+	background-color: #4B5A77;
 	margin-top: -5px;
 	text-align: center;
 	color: #fff;
@@ -1882,8 +1882,8 @@ a { outline: 0 !important; }
 
 .project-section:before {
 	width: 50%;
-	border-bottom: 0 solid #e74c3c; 
-	border-top: 600px solid #e74c3c; 
+	border-bottom: 0 solid #4A64A0; 
+	border-top: 600px solid #4A64A0; 
 	border-left: 0 solid transparent; 
 	border-right: 100px solid transparent; 
 	content: "";
@@ -2002,7 +2002,7 @@ a { outline: 0 !important; }
 .footer-section {
 	float: left;
 	width: 100%;
-	background-color: #333;
+	background-color: #1B1C1C;
 	color: #fff;
 	height: 160px;
 }

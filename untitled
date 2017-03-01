@@ -1,0 +1,415 @@
+<section id="menu" class="no-padding">
+            <div class="container-fluid">
+                <div class="row no-margin">
+                    <div class="col-md-6 col-sm-12 restaurant-menu position-relative overflow-hidden xs-no-padding">
+                      
+                        <div class="restaurant-menu-image cover-background" style="background-image: url('http://placehold.it/900x1200'); ">
+                            <div class="restaurant-menu-item z-index-1">
+                                <img src="http://placehold.it/150x150" alt=""/>
+                                <span class="title-small font-weight-100 letter-spacing-2 alt-font deep-yellow-text text-uppercase display-block margin-four no-margin-lr no-margin-bottom">Breakfast</span>
+                                <span class="text-small letter-spacing-1 text-uppercase">Every Day 08:00 - 10:00</span>
+                                <div class="margin-four"><img src="images/separator2.png" alt=""/></div>
+                            </div>
+                            <div class="restaurant-menu-background"><div class="restaurant-menu-border z-index-2"></div></div>
+                        </div>
+                        
+                        <div class="restaurant-menu-text">
+                            <div class="restaurant-menu-text-inner padding-thirteen sm-padding-nine" style="background-image:url('images/restaurant-img7.jpg');">
+                               
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-8 col-xs-7 col-xs-8 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Soft-Boiled Egg - $12.00</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 col-xs-8 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Crepes of Wrath - $06.00</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 col-xs-8 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Creamsicle Shake - $10.60</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 col-xs-8 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Perfect Kentucky - $09.50</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                              
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 col-xs-8 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Smoked Sandwich - $08.00</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                            </div>
+                        </div>
+                       
+                    </div>
+                    <div class="col-md-6 col-sm-12 restaurant-menu position-relative overflow-hidden xs-no-padding">
+                       
+                        <div class="restaurant-menu-image cover-background" style=" background-image: url('http://placehold.it/900x1200');">
+                            <div class="restaurant-menu-item z-index-1">
+                                <img src="http://placehold.it/150x150" alt=""/>
+                                <span class="title-small font-weight-100 letter-spacing-2 alt-font deep-yellow-text text-uppercase display-block margin-four no-margin-lr no-margin-bottom">Lunch</span>
+                                <span class="text-small letter-spacing-1 text-uppercase">Every Day 13:00 - 15:00</span>
+                                <div class="margin-four"><img src="images/separator2.png" alt=""/></div>
+                            </div>
+                            <div class="restaurant-menu-background"><div class="restaurant-menu-border z-index-2"></div></div>
+                        </div>
+                       
+                        <div class="restaurant-menu-text">
+                            <div class="restaurant-menu-text-inner padding-thirteen sm-padding-nine" style="background-image:url('images/restaurant-img7.jpg');">
+                            
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Soft-Boiled Egg - $12.00</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Crepes of Wrath - $06.00</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Creamsicle Shake - $10.60</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Perfect Kentucky - $09.50</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="menu-item">
+                                    <div class="col-md-3 col-sm-2 col-xs-3 menu-img sm-display-block"><img src="http://placehold.it/180x180" alt="" class="round-border"/></div>
+                                    <div class="col-md-8 col-sm-9 col-xs-7 menu-text sm-width-80 xs-width-70">
+                                        <div class="menu-text-sub">
+                                            <span class="text-uppercase brown-text letter-spacing-1 display-block font-weight-600 md-padding-one md-no-padding-lr md-no-padding-top">Smoked Sandwich - $08.00</span>
+                                            <p class="display-block">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                            </div>
+                        </div>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+       
+
+        <!-- chef section -->
+        <section id="chef" class="no-padding-bottom overflow-hidden">
+            <div class="container">
+                <!-- section title -->
+                <div class="row margin-eighteen no-margin-top no-margin-lr">
+                    <div class="col-md-12 col-sm-12 text-center">
+                        <h2 class="title-large alt-font text-uppercase letter-spacing-2 brown-text display-block font-weight-600 margin-one no-margin-top ">Los Chefs</h2>
+                        <div class="margin-four no-margin-top"><img src="images/separator.png" alt=""/></div>
+                    </div>
+                </div>
+                <!-- end section title -->
+            </div>
+
+
+
+
+            <div class="container-fluid no-margin-bottom no-margin-lr">
+                <div class="row">
+                    <!-- chef -->
+                    <div class="col-md-4 col-sm-4 text-center chef-bio overflow-hidden">
+                        <!-- chef image -->
+                        <div class="chef-img">
+                            <img src="http://placehold.it/700x900" alt=""/>
+                        </div>
+                        <!-- end chef image -->
+                        <!-- chef bio -->
+                        <div class="chef-details padding-seventeen no-padding-lr center-col text-center bg-brown">
+                            <div class="separator-line-thick bg-deep-yellow margin-lr-auto margin-fourteen no-margin-top xs-margin-six xs-no-margin-top xs-margin-lr-auto"></div>
+                            <span class="title-small font-weight-100 letter-spacing-2 alt-font deep-yellow-text text-uppercase display-block">Juán Godínez</span>
+                            <span class="text-small letter-spacing-2 text-uppercase alt-font light-gray-text">Chef</span>
+                            <p class="text-medium margin-nine width-80 margin-lr-auto no-margin-bottom light-gray-text xs-margin-five xs-no-margin-bottom xs-margin-lr-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been standard.</p>
+                        </div>
+                        <!-- end chef bio -->
+                    </div>
+                    <!-- end chef -->
+                    <!-- chef -->
+                    <div class="col-md-4 col-sm-4 text-center chef-bio overflow-hidden">
+                        <!-- chef image -->
+                        <div class="chef-img">
+                            <img src="http://placehold.it/700x900" alt=""/>
+                        </div>
+                        <!-- end chef image -->
+                        <!-- chef bio -->
+                        <div class="chef-details padding-seventeen no-padding-lr center-col text-center bg-brown">
+                            <div class="separator-line-thick bg-deep-yellow margin-lr-auto margin-fourteen no-margin-top xs-margin-six xs-no-margin-top xs-margin-lr-auto"></div>
+                            <span class="title-small font-weight-100 letter-spacing-2 alt-font deep-yellow-text text-uppercase display-block">Juán Godínez</span>
+                            <span class="text-small letter-spacing-2 text-uppercase alt-font light-gray-text">Chef</span>
+                            <p class="text-medium margin-nine width-80 margin-lr-auto no-margin-bottom light-gray-text xs-margin-five xs-no-margin-bottom xs-margin-lr-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been standard.</p>
+                        </div>
+                        <!-- end chef bio -->
+                    </div>
+                    <!-- end chef -->
+                    <!-- chef -->
+                    <div class="col-md-4 col-sm-4 text-center chef-bio overflow-hidden">
+                        <!-- chef image -->
+                        <div class="chef-img">
+                            <img src="http://placehold.it/700x900" alt=""/>
+                        </div>
+                        <!-- end chef image -->
+                        <!-- chef bio -->
+                        <div class="chef-details padding-seventeen no-padding-lr center-col text-center bg-brown">
+                            <div class="separator-line-thick bg-deep-yellow margin-lr-auto margin-fourteen no-margin-top xs-margin-six xs-no-margin-top xs-margin-lr-auto"></div>
+                            <span class="title-small font-weight-100 letter-spacing-2 alt-font deep-yellow-text text-uppercase display-block">Juán Godínez</span>
+                            <span class="text-small letter-spacing-2 text-uppercase alt-font light-gray-text">Chef</span>
+                            <p class="text-medium margin-nine width-80 margin-lr-auto no-margin-bottom light-gray-text xs-margin-five xs-no-margin-bottom xs-margin-lr-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been standard.</p>
+                        </div>
+                        <!-- end chef bio -->
+                    </div>
+                    <!-- end chef -->
+                    
+                </div>
+            </div>
+
+
+
+
+        </section>
+        <!-- end chef section -->
+
+
+
+
+
+
+        <!-- special dishes 
+
+
+
+
+
+        <section class="fix-background fix-background-webkit" style="background-image:url('images/restaurant-img24.jpg');">
+            <div class="container">
+               
+
+
+                <div class="row margin-three no-margin-top">
+                    <div class="col-md-12 col-sm-12 text-center margin-eleven no-margin-lr no-margin-top xs-margin-thirty xs-no-margin-lr xs-no-margin-top">
+                        <img src="images/restaurant-img36.png" alt=""/>
+                    </div>
+                </div>
+               
+                <div class="row">
+                   
+                    <div class="col-md-4 col-sm-4 text-center position-relative special-dishes xs-margin-thirteen xs-no-margin-lr xs-no-margin-top">
+                        <img src="http://placehold.it/289x289" alt=""/>
+                        <div class="text-uppercase alt-font margin-fifteen no-margin-lr no-margin-bottom text-extra-large white-text letter-spacing-2 xs-margin-seven xs-no-margin-lr xs-no-margin-bottom sm-text-large">Perfect Kentucky</div>
+                        <div class="text-uppercase text-small light-gray-text alt-font margin-one-half no-margin-lr no-margin-bottom sm-padding-three sm-no-margin-lr sm-no-margin-bottom">Tomatoes  /  Parmesan  /  Basil</div>
+                        <div class="bg-deep-red round-border special-dishes-price text-center text-uppercase alt-font white-text position-absolute"><span class="text-small">Only</span><br><span class="text-extra-large line-height-unset">$15.00</span></div>
+                    </div>
+                    
+
+                    <div class="col-md-4 col-sm-4 text-center position-relative special-dishes xs-margin-thirteen xs-no-margin-lr xs-no-margin-top">
+                        <img src="http://placehold.it/289x289" alt=""/>
+                        <div class="text-uppercase alt-font margin-fifteen no-margin-lr no-margin-bottom text-extra-large white-text letter-spacing-2 xs-margin-seven xs-no-margin-lr xs-no-margin-bottom sm-text-large">Hot Chicken Breast</div>
+                        <div class="text-uppercase text-small light-gray-text alt-font margin-one-half no-margin-lr no-margin-bottom sm-padding-three sm-no-margin-lr sm-no-margin-bottom">Olives  /  Parmesan  /  Basil</div>
+                        <div class="bg-deep-red round-border special-dishes-price text-center text-uppercase alt-font white-text position-absolute"><span class="text-small">Only</span><br><span class="text-extra-large line-height-unset">$11.99</span></div>
+                    </div>
+                    
+
+                    <div class="col-md-4 col-sm-4 text-center position-relative special-dishes xs-margin-thirteen xs-no-margin-lr xs-no-margin-tb">
+                        <img src="http://placehold.it/288x288" alt=""/>
+                        <div class="text-uppercase alt-font margin-fifteen no-margin-lr no-margin-bottom text-extra-large white-text letter-spacing-2 xs-margin-seven xs-no-margin-lr xs-no-margin-bottom sm-text-large">Chilly Cheese Steak</div>
+                        <div class="text-uppercase text-small light-gray-text alt-font margin-one-half no-margin-lr no-margin-bottom sm-padding-three sm-no-margin-lr sm-no-margin-bottom">Chilli  /  Parmesan  /  Basil</div>
+                        <div class="bg-deep-red round-border special-dishes-price text-center text-uppercase alt-font white-text position-absolute"><span class="text-small">Only</span><br><span class="text-extra-large line-height-unset">$12.50</span></div>
+                    </div>
+                    
+
+                </div>
+            </div>
+        </section>
+
+
+
+        special dishes section -->
+
+
+
+        <!-- photo gallery section -->
+        <section id="gallery" class="no-padding-bottom work-4col">
+            <div class="container">
+                <!-- section title -->
+                <div class="row margin-five no-margin-top no-margin-lr">
+                    <div class="col-md-12 col-sm-12 text-center">
+                        <h2 class="title-large alt-font text-uppercase letter-spacing-2 brown-text display-block font-weight-600 margin-one no-margin-top">La carta</h2>
+                        <div class="margin-four no-margin-top"><img src="images/separator.png" alt=""/></div>
+                    </div>
+                </div>
+                <!-- end section title -->
+            </div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 center-col margin-lr-auto text-center margin-five no-margin-lr no-margin-top xs-margin-nine xs-no-margin-lr xs-no-margin-top">
+                        <!-- filter navigation -->
+                        <ul class="portfolio-filter nav nav-tabs portfolio-filter-tab-style-2 alt-font text-uppercase letter-spacing-1 xs-width-100">
+                            <li class="nav active xs-display-inline"><a href="#" data-filter="*">Todo</a></li>
+                            <li class="nav xs-display-inline"><a href="#" data-filter=".breakfast">Entradas</a></li>
+                            <li class="nav xs-display-inline"><a href="#" data-filter=".lunch">Comida</a></li>
+                            <li class="nav xs-display-inline"><a href="#" data-filter=".dinner">Cena</a></li>
+                            <li class="nav xs-display-inline "><a href="#" data-filter=".drinks">Bebidas</a></li>
+                        </ul>
+                        <!-- end filter navigation -->
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="grid-gallery grid-style2 overflow-hidden">
+                        <div class="tab-content">
+                            <ul class="masonry-items grid lightbox-gallery">
+                                <!-- gallery item -->
+                                <li class="drinks lunch dinner">
+                                    <figure>
+                                        <div class="gallery-img"><a href="http://placehold.it/800x600" title="Soft-Boiled Organic - $25.55"><img src="http://placehold.it/800x600" alt=""></a></div>
+                                        <figcaption>
+                                            <h3 class="text-large alt-font text-uppercase letter-spacing-2">Mariscada</h3>
+                                            <span class="text-small alt-font text-uppercase letter-spacing-2 font-weight-100">$25.50</span>
+                                        </figcaption>
+                                    </figure>
+                                </li>
+                                <!-- end gallery item -->
+                                <!-- gallery item -->
+                                <li class="drinks breakfast dinner">
+                                    <figure>
+                                        <div class="gallery-img"><a href="http://placehold.it/800x600" title="Beyond Blueberries - $13.00"><img src="http://placehold.it/800x600" alt=""></a></div>
+                                        <figcaption>
+                                            <h3 class="text-large alt-font text-uppercase letter-spacing-2">Mariscada</h3>
+                                            <span class="text-small alt-font text-uppercase letter-spacing-2 font-weight-100">$13.00</span>
+                                        </figcaption>
+                                    </figure>
+                                </li>
+                                <!-- end gallery item -->
+                                <!-- gallery item -->
+                                <li class="lunch breakfast dinner">
+                                    <figure>
+                                        <div class="gallery-img"><a href="http://placehold.it/800x600" title="Curry Salad Soup - $10.55"><img src="http://placehold.it/800x600" alt=""></a></div>
+                                        <figcaption>
+                                            <h3 class="text-large alt-font text-uppercase letter-spacing-2">Mariscada</h3>
+                                            <span class="text-small alt-font text-uppercase letter-spacing-2 font-weight-100">$10.50</span>
+                                        </figcaption>
+                                    </figure>
+                                </li>
+                                <!-- end gallery item -->
+                                <!-- gallery item -->
+                                <li class="dinner breakfast lunch">
+                                    <figure>
+                                        <div class="gallery-img"><a href="http://placehold.it/800x600" title="The Crepes of Wrath - $09.25"><img src="http://placehold.it/800x600" alt=""></a></div>
+                                        <figcaption>
+                                            <h3 class="text-large alt-font text-uppercase letter-spacing-2">Mariscada</h3>
+                                            <span class="text-small alt-font text-uppercase letter-spacing-2 font-weight-100">$39.00</span>
+                                        </figcaption>
+                                    </figure>
+                                </li>
+                                <!-- end gallery item -->
+                                <!-- gallery item -->
+                                <li class="drinks lunch">
+                                    <figure>
+                                        <div class="gallery-img"><a href="http://placehold.it/800x600" title="Tang Creamsicle Shake - $12.55"><img src="http://placehold.it/800x600" alt=""></a></div>
+                                        <figcaption>
+                                            <h3 class="text-large alt-font text-uppercase letter-spacing-2">Mariscada</h3>
+                                            <span class="text-small alt-font text-uppercase letter-spacing-2 font-weight-100">$12.50</span>
+                                        </figcaption>
+                                    </figure>
+                                </li>
+                                <!-- end gallery item -->
+                                <!-- gallery item -->
+                                <li class="drinks breakfast">
+                                    <figure>
+                                        <div class="gallery-img"><a href="http://placehold.it/800x600" title="The Crepes of Wrath - $15.70"><img src="http://placehold.it/800x600" alt=""></a></div>
+                                        <figcaption>
+                                            <h3 class="text-large alt-font text-uppercase letter-spacing-2">Mariscada</h3>
+                                            <span class="text-small alt-font text-uppercase letter-spacing-2 font-weight-100">$15.00</span>
+                                        </figcaption>
+                                    </figure>
+                                </li>
+                                <!-- end gallery item -->
+                                <!-- gallery item -->
+                                <li class="drinks breakfast">
+                                    <figure>
+                                        <div class="gallery-img"><a href="http://placehold.it/800x600" title="Arugula Flatbread - $12.50"><img src="http://placehold.it/800x600" alt=""></a></div>
+                                        <figcaption>
+                                            <h3 class="text-large alt-font text-uppercase letter-spacing-2">Mariscada</h3>
+                                            <span class="text-small alt-font text-uppercase letter-spacing-2 font-weight-100">$12.50</span>
+                                        </figcaption>
+                                    </figure>
+                                </li>
+                                <!-- end gallery item -->
+                                <!-- gallery item -->
+                                <li class="drinks breakfast">
+                                    <figure>
+                                        <div class="gallery-img"><a href="http://placehold.it/800x600" title="Greek Yogurt Sorbet - $13.55"><img src="http://placehold.it/800x600" alt=""></a></div>
+                                        <figcaption>
+                                            <h3 class="text-large alt-font text-uppercase letter-spacing-2">Mariscada</h3>
+                                            <span class="text-small alt-font text-uppercase letter-spacing-2 font-weight-100">$13.50</span>
+                                        </figcaption>
+                                    </figure>
+                                </li>
+                                <!-- end gallery item -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end photo gallery section -->

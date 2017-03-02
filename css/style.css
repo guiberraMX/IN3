@@ -123,13 +123,47 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 }
 
 #lunch{
-    background-image: url(../images/p2.jpg) !important;
+    background-image: url(../images/featin-bg.png) !important;
 }
 
 #dinner{
-    background-image: url(../images/p3.jpg) !important;
+    background-image: url(../images/bf_right.png) !important;
 }
 
+
+
+
+#about{
+    margin-bottom: -333px !important;
+}
+
+.pix{
+    margin-top: -8px !important;
+}
+
+
+.bobody {
+    
+  background-color: #b61b1b;
+  animation: bg-color 10s infinite;
+  -webkit-animation: bg-color 10s infinite;
+}
+
+@-webkit-keyframes bg-color {
+  0% { background-color: #cc5d25; }
+  33% { background-color: #b61b1b; }
+  66% { background-color: #ff7f11; }
+  
+  100% { background-color: #cc5d25; }
+}
+
+@keyframes bg-color {
+   0% { background-color: #cc5d25; }
+  33% { background-color: #b61b1b; }
+  66% { background-color: #ff7f11; }
+  
+  100% { background-color: #cc5d25; }
+}
 
 
 
@@ -796,7 +830,7 @@ nav.shrink .container {height: 60px;}
 .nav li {margin: 15px 20px}
 .sticky-wrapper {position: absolute; top: 0; width: 100%}
 .navbar-brand img {position: relative; top: -5px; z-index: 2; max-width: 156px;}
-nav.shrink {background: #fba42a; border: none !important}
+nav.shrink {background: #1b1c1c; border: none !important}
 .transparent-header.shrink {background: rgba(0,0,0,.7); border: none !important}
 nav.navbar-height{  height: 100px !important;}
 nav.navbar-height.shrink {height: 50px !important;}

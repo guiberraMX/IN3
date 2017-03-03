@@ -122,7 +122,7 @@ h1.page-title { margin:95px auto 0; width: 100%; }
     background-image: url(../images/p1.jpg) !important;
 }
 
-#lunch{
+#roi{
     background-image: url(../images/featin-bg.png) !important;
 }
 
@@ -130,7 +130,9 @@ h1.page-title { margin:95px auto 0; width: 100%; }
     background-image: url(../images/bf_right.png) !important;
 }
 
-
+.callme{
+    color: #6A8DD3 !important;
+}
 
 
 #about{
@@ -189,7 +191,7 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .gray-text {  color:#626262 !important}
 .dark-gray-text { color:#373737 !important}
 .brown-text {color: #614c45 !important}
-.deep-yellow-text {color: #4eab8a !important}
+.deep-yellow-text {color: #e6ca2f !important}
 .dark-blue-text {color: #1e2126 !important}
 .fast-pink-text { color:#ff1a56 !important}
 .fast-pink-text-dark { color:#ef106e !important}
@@ -331,7 +333,7 @@ i { color: #9a9a9a; margin:0}
 .bg-white{ background: #fff !important;}
 .bg-white-transparent{ background: rgba(255,255,255,.3) !important}
 .bg-yellow{ background: #e6af2a !important; }
-.bg-deep-yellow{ background: #4eab8a !important; }
+.bg-deep-yellow{ background: #5080CC !important; }
 .bg-golden-yellow{ background: #ffd800 !important; }
 .bg-fast-yellow{ background: #fdd947 !important; }
 .bg-dark-gray{ background: #252525 !important; }

@@ -116,7 +116,9 @@ h1.big { color:#ffffff; font-size:65px; font-weight:600; line-height:76px; margi
 h1.big span { font-weight:300;}
 h1.page-title { margin:95px auto 0; width: 100%; }
 
-
+.fit{
+    margin-top: 0px !important;
+}
 
 #breakfast{
     background-image: url(../images/p1.jpg) !important;
@@ -162,6 +164,9 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .text-small { font-size:11px !important; line-height:20px!important; display: inline-block !important}
 .text-medium{ font-size:14px !important; line-height:24px !important;}
 .text-large { font-size: 15px !important; line-height: 22px !important; }
+.text-large2 { font-size: 12px !important; line-height: 16px !important; }
+
+
 .text-extra-large { font-size: 18px !important; line-height: 27px !important;  }
 .title-small{ font-size:20px !important; line-height:30px !important;}
 .title-medium{ font-size:24px !important; line-height:28px !important;}
@@ -353,7 +358,7 @@ i { color: #9a9a9a; margin:0}
 .bg-deep-red { background:#dc3535 !important}
 .bg-deep-pink { background:#e53878 !important}
 .bg-light-pink { background:#dc378e !important}
-.bg-fast-pink { background:#ff1a56 !important}
+.bg-fast-pink { background:#6A8DD3 !important}
 .bg-fast-pink-dark { background:#ef106e !important}
 .bg-magenta { background:#d94378 !important }
 .bg-light-yellow {background:#f8f7f5 !important}
@@ -652,7 +657,7 @@ section { padding: 130px 0; }
 .highlight-button i { color: #000}
 .highlight-button:hover i {color:#fff}
 
-.highlight-button-dark { border:2px solid #000; display: inline-block; padding: 8px 20px 9px; font-size: 12px; color:#fff; background-color: #5080CC;  }
+.highlight-button-dark { border:0px solid #000; display: inline-block; padding: 8px 20px 9px; font-size: 12px; color:#fff; background-color: #5080CC;  }
 .highlight-button-dark:hover, .highlight-button-dark:focus { background-color: #fff; border: 2px solid #000; color:#000}
 .highlight-button-dark i { color: #fff}
 .highlight-button-dark:hover i {color:#000}
@@ -810,7 +815,7 @@ nav .container { display: table-cell; height: 75px; position: relative; vertical
 nav.shrink .container {height: 60px;}
 .header-right { margin: 13px 0 0; }
 .navbar-nav a { font-size: 12px; text-transform: uppercase; color: #fff !important; padding:0 !important; font-weight: 500}
-.navbar-nav a:hover { color: #000 !important; background: transparent !important}
+.navbar-nav a:hover { color: #5080cc !important; background: transparent !important}
 .navbar-nav a:focus {color: #fff !important; background: transparent !important}
 .nav li {margin: 15px 20px}
 .sticky-wrapper {position: absolute; top: 0; width: 100%}

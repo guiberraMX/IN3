@@ -1117,6 +1117,15 @@
 }
 
 @media (max-width: 480px) {
+
+
+
+
+    #about{
+    margin-bottom: 0px !important;
+}
+
+
     /* blog */
     .blog-post-style1 article:hover .post-details {padding-left: 12px;}
     .blog-post-style2 .post-details span a { font-size: 11px;}
@@ -1194,6 +1203,12 @@
     /* pull navigation */
     .menu-wrap {width: 100%; left: 350px}
     .menu-button {right: 0; margin: 30px;}
+
+    #about{
+    margin-bottom: -0px !important;
+}
+
+
     
     /* wedding */
     .attending-main { height: 460px;}
@@ -1203,5 +1218,9 @@
      .coming-soon-bg, .coming-soon-bg .slider-text-middle-main {min-height: 550px !important}
      .min-height-image .full-screen { min-height: 510px !important;}
      .display-none-minwidth {display: none !important}
+
+     #about{
+    margin-bottom: 0px !important;
+}
  }
  

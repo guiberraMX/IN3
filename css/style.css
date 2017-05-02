@@ -1683,6 +1683,7 @@ footer img {max-width: 156px;}
 ====================================== */
 
 /* page title */
+.page-title2 { min-height: 365px; padding: 0px 0 0; overflow: hidden; }
 .page-title { min-height: 450px; padding: 210px 0 0; overflow: hidden; }
 .page-title h2 {font-size: 50px;}
 
